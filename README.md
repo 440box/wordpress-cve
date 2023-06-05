@@ -1,6 +1,6 @@
 # wordpress-cve
 
-experts.
+experts. check this:
 
 /wp-content/plugins/wpdiscuz/themes/default/style-rtl.css
 
