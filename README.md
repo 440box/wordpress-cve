@@ -1,4 +1,4 @@
-# wordpress-cve
+# wordpress-cve-urls-to-check
 
 experts. check this:
 
