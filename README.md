@@ -3,14 +3,23 @@
 experts.
 
 /wp-content/plugins/wpdiscuz/themes/default/style-rtl.css
+
 /wp-content/plugins/fancy-product-designer/inc/custom-image-handler.php
+
 /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php
+
 /wp-content/langar.php
+
 /test.php?Ghost=send
+
 /config.php
+
 /upload.php
+
 /up.php
+
 /wp-includes/small.php
+
 /wp-includes/lfx.php
 /wp-content/mu-plugins/db-safe-mode.php
 /legion.php
