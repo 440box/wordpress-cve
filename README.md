@@ -94,5 +94,5 @@ experts. check this:
 
 /style.php
 
-if you find somethig around , just try to lets kill that,,,
+if you find somethig around , just try to kill that,,,
 
