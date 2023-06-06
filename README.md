@@ -1,6 +1,6 @@
 # wordpress-cve-urls-to-check
 
-experts. check this:
+check this to avoid wp hack:
 
 /wp-content/plugins/wpdiscuz/themes/default/style-rtl.css
 
